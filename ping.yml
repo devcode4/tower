@@ -1,3 +1,4 @@
+---
 - name: Chocolatey with Ansible
   gather_facts: false
   tasks:
